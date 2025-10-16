@@ -1,0 +1,12 @@
+{
+  "modelpath": "G:\\1.WORK\\CODEBASE\\AIMODELS\\qwen2.5-7b-instruct-q2_k.gguf",
+  "device": "cuda",
+  "contextsize": 40000,
+  "Modelfinetuningparameters": {
+    "temp": 0.5,
+    "top_k": 50,
+    "top_p": 0.95,
+    "repeat_penalty": 1.1,
+    "n_predict": 512
+  }
+}

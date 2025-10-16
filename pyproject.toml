@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["gpt4all[cuda]>=2.8.2", "nuitka>=2.7.12", "typer>=0.16.0"]
+dependencies = [
+    "gpt4all[cuda]>=2.8.2",
+    "nuitka>=2.7.16",
+    "typer>=0.19.2",
+]
+
